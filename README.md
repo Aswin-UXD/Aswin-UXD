@@ -1,200 +1,31 @@
-<h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=30&duration=4000&pause=1000&color=FF1C1C&center=true&vCenter=true&width=600&lines=Hello!+I'm+Aswin;Designing+User-centric+Experiences;BE+Graduate" />
-</h1>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=aswin-uxd&label=Profile%20Views&color=ff3131&style=flat" 
-    alt="aswin-uxd"
-    style="box-shadow: 0 0 12px rgba(255, 49, 49, 0.6); border-radius: 6px;" 
-  />
-</p>
+# 💫 About Me:
+I'm a UI enthusiast and aspiring full-stack developer with a passion for building intuitive interfaces and crafting seamless user experiences. With expertise in HTML, CSS, JavaScript, and React, I'm constantly exploring new ways to merge design and code. I'm also interested in data visualization with Power BI and graphic design with Canva. I'm excited to collaborate and learn from others in the developer community!
 
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/r.axvv.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.axvv.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-uxd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aswin-UXD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/r_axvv_in) 
 
-## 🏆 Achievements & GitHub Metrics
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aswin-UXD&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aswin-UXD&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-UXD&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=aswin-uxd&theme=matrix&title=Stars,Followers,Repositories,Commits,Issues,PullRequest,Contributions&margin-w=15&margin-h=15" 
-      alt="GitHub Trophies"
-      style="box-shadow: 0 0 20px rgba(255, 49, 49, 0.6); border-radius: 12px;"
-    />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aswin-UXD&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- GitHub Stats (3D style) -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aswin-uxd&show_icons=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=0d0d0d&border_color=ff3131&border_radius=10" 
-    alt="GitHub Stats"
-    style="box-shadow: 0 0 15px rgba(255,49,49,0.6); border-radius: 12px;"
-  />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-uxd&layout=compact&title_color=ff3131&text_color=ffffff&bg_color=0d0d0d&border_color=ff3131&border_radius=10" 
-    alt="Top Languages"
-    style="box-shadow: 0 0 15px rgba(255,49,49,0.6); border-radius: 12px;"
-  />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=aswin-uxd&theme=highcontrast&ring=ff3131&fire=ff3131&currStreakLabel=ffffff&background=0d0d0d" 
-    alt="GitHub Streak"
-    style="box-shadow: 0 0 15px rgba(255,49,49,0.6); border-radius: 12px;"
-  />
-</p>
-
-<!-- Contribution Graph (3D red-inspired) -->
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-uxd&theme=react-dark&color=ff3131&point=ffffff&area=true&hide_border=true" 
-    alt="Contribution Graph"
-    style="box-shadow: 0 0 15px rgba(255,49,49,0.6); border-radius: 12px;"
-  />
-</p>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aswin-UXD&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Aswin-UXD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 Tech Stack
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Aswin.R) 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,figma,vscode,github,nodejs" />
-</p>
-
----
-
-## 🎯 Portfolio & Resume
-
-<p align="center">
-  <a href="https://aswin-uxd.github.io" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/64/domain.png" alt="Portfolio" />
-  </a>
-  <br />
-  🌐 <a href="https://aswin-uxd.github.io">My Portfolio Website</a>
-</p>
-
-<p align="center">
-  <a href="https://aswin-uxd.github.io/Resume-Aswin.pdf" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/64/resume.png" alt="Resume" />
-  </a>
-  <br />
-  📄 <a href="https://aswin-uxd.github.io/Resume-Aswin.pdf">Download My CV</a>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/3d-fluency/64/graduation-cap.png" alt="Learning" />
-  <br />
-  <strong>Currently Learning:</strong> Web3, GSAP, Three.js, Next.js
-</p>
-
----
-
-
-## 📌 Pinned Projects
-
-<details open>
-<summary><img src="https://img.icons8.com/3d-fluency/48/fire-element.png" width="24"/> <strong>Open Projects</strong></summary><br>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/48/chili-pepper.png" width="30"/>
-  <strong>[Spicy Momento](https://github.com/aswin-uxd/spicy-momento)</strong> — A real-time aesthetic food blog.
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/48/clock.png" width="30"/>  
-  <strong>[Neon Clock](https://github.com/aswin-uxd/neon-clock)</strong> — Interactive, animated live clock with glowing design.
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/48/source-code.png" width="30"/>
-  <strong>[Professional Portfolio](https://github.com/aswin-uxd/portfolio)</strong> — Fully responsive black & pink portfolio website.
-</p>
-
-</details>
-
-
----
-
-## 🧑‍💻 Dev Cards
-
-<details open>
-<summary><img src="https://img.icons8.com/3d-fluency/48/source-code.png" width="24"/> <strong>Developer Visuals</strong></summary><br>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/40/combo-chart.png" width="30"/>
-  <strong>GitHub Metrics Dashboard:</strong>  
-  <a href="https://github.com/lowlighter/metrics" target="_blank">lowlighter/metrics</a> — Detailed insights into your GitHub activity.
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/40/mountain.png" width="30"/>
-  <strong>3D GitHub Skyline:</strong>  
-  <a href="https://skyline.github.com/aswin-uxd" target="_blank">skyline.github.com/aswin-uxd</a> — Your yearly GitHub contributions in a 3D skyline.
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/40/python.png" width="30"/>
-  <strong>Contribution Snake:</strong>  
-  <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a> — Animated snake crawling through your contributions graph.
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/3d-fluency/40/time-machine.png" width="30"/>
-  <strong>WakaTime Coding Stats:</strong>  
-  <a href="https://wakatime.com" target="_blank">wakatime.com</a> — Automatically tracks your coding time and languages used.
-</p>
-
-</details>
-
----
-
-## 📊 Analytics
-
-- 💬 Issue/PR Ratio
-- 🌍 Geo Heatmap via Metrics
-- 📘 Language Contribution Pie Chart
-
----
-
-## 🎮 Fun Widgets
-
-- 🎧 Spotify Now Playing: [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-- 🖼️ GIF Banner | ASCII Art: [patorjk.com](https://patorjk.com/software/taag)
-- 🧠 Quote of the Day + Clock
-- 🌍 Visitor Map: [Revolver Maps](https://www.revolvermaps.com/)
-
----
-
-## 🔗 Social Media
-
-[![Twitter](https://img.shields.io/twitter/follow/r_axvv_in?style=social)](https://twitter.com/r_axvv_in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aswin--uxd-blue)](https://linkedin.com/in/aswin-uxd)
-[![Instagram](https://img.shields.io/badge/Instagram-aswin--uxd-pink)](https://instagram.com/aswin-uxd)
-
----
-
-
-## 💬 Let’s Connect & Collaborate
-
-💌 Email: [mailto:aswin@example.com](mailto:aswin@example.com)  
-💼 Hire Me: [Portfolio](https://aswin-uxd.github.io)  
-📬 DM: Twitter/Instagram/LinkedIn
-
----
-
-<h3 align="center">"Design isn’t how it looks. Design is how it works."</h3>
-<p align="center"><strong>— Aswin, UI/UX Craftsman & Fullstack Dev</strong></p>
-
----
-
-> ⚡ This README is dynamically enhanced and handcrafted with ♥ by [aswin-uxd](https://github.com/aswin-uxd)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
