@@ -45,6 +45,10 @@ I’m Aswin R, a Computer Science enthusiast with a passion for design, developm
 <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /></a>
 <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" /></a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+</a>
+
 
 ---
 
